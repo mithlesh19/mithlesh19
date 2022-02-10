@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mithlesh19" alt="mithlesh19" /></a> </p>
 
-- 📫 How to reach me **https://www.linkedin.com/in/mithleshkumar19/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
